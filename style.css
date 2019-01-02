@@ -1,0 +1,36 @@
+iframe[name="richTextArea"]{
+    width: 1000px;
+    height: 500px;
+    margin-top: 1em;
+    border: 8px double slategrey;
+
+}
+body{
+    margin-top: 3rem;
+    
+}
+button{
+    font-size: 1.5rem;
+    background-color: slategray;
+    color: white;
+    border: none;
+    border-radius: .2rem;
+}
+.toolBox{
+    text-align: center;
+}
+.textArea{
+    text-align: center;
+}
+select{
+    border-radius: .2rem;
+    padding: .4rem;
+    font-weight: bold;
+    background-color:slategray;
+    color: white;
+}
+option{
+    padding:.2rem;
+    font-weight: bold;
+    color: white;
+}
